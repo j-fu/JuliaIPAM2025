@@ -42,9 +42,9 @@ a while.
 ## Notebooks
 In order to download them, you can clone this repository, or download then here. Pluto notebooks contain package manifests which are specific for the different Julia minor versions. As Julia 1.10 (the current long term service release) has a lower package loading time, they are provided here for both Julia 1.10 and 1.12.
 
-- Julia Overview ([pluto + 1.12](https://raw.githubusercontent.com/j-fu/VoronoiFVOT/refs/heads/main/JuliaOverview-jl1.12.jl)|[html](https://www.wias-berlin.de/people/fuhrmann/blobs/JuliaOverview-jl1.12.html)|[pluto + 1.10](https://www.wias-berlin.de/people/fuhrmann/blobs/JuliaOverview-jl1.10.jl))
-- Intro to VoronoiFVM.jl  ([pluto + 1.12](https://raw.githubusercontent.com/j-fu/VoronoiFVOT/refs/heads/main/VoronoiFVMIntro-jl1.12.jl)|[html](https://www.wias-berlin.de/people/fuhrmann/blobs/VoronoiFVMIntro-jl1.12.html)|[pluto + 1.10](https://www.wias-berlin.de/people/fuhrmann/blobs/VoronoiFVMIntro-jl1.10.jl))
-- Template notebook  ([pluto + 1.12](https://raw.githubusercontent.com/j-fu/VoronoiFVOT/refs/heads/main/VoronoiFVMTemplate-jl1.12.jl)|[html](https://www.wias-berlin.de/people/fuhrmann/blobs/VoronoiFVMTemplate-jl1.12.html)|[pluto + 1.10](https://www.wias-berlin.de/people/fuhrmann/blobs/VoronoiFVMTemplate-jl1.10.jl))
+- Julia Overview ([pluto + 1.12](https://raw.githubusercontent.com/j-fu/JuliaIPAM2025/refs/heads/main/JuliaOverview-jl1.12.jl)|[html](https://www.wias-berlin.de/people/fuhrmann/blobs/JuliaOverview-jl1.12.html)|[pluto + 1.10](https://www.wias-berlin.de/people/fuhrmann/blobs/JuliaOverview-jl1.10.jl))
+- Intro to VoronoiFVM.jl  ([pluto + 1.12](https://raw.githubusercontent.com/j-fu/JuliaIPAM2025/refs/heads/main/VoronoiFVMIntro-jl1.12.jl)|[html](https://www.wias-berlin.de/people/fuhrmann/blobs/VoronoiFVMIntro-jl1.12.html)|[pluto + 1.10](https://www.wias-berlin.de/people/fuhrmann/blobs/VoronoiFVMIntro-jl1.10.jl))
+- Template notebook  ([pluto + 1.12](https://raw.githubusercontent.com/j-fu/JuliaIPAM2025/refs/heads/main/VoronoiFVMTemplate-jl1.12.jl)|[html](https://www.wias-berlin.de/people/fuhrmann/blobs/VoronoiFVMTemplate-jl1.12.html)|[pluto + 1.10](https://www.wias-berlin.de/people/fuhrmann/blobs/VoronoiFVMTemplate-jl1.10.jl))
 
 ## Some additional links
 
